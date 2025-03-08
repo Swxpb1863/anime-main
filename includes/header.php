@@ -2,7 +2,7 @@
 <?php
     ob_start();
     session_start();
-    define("APPURL","http://localhost/anime-main");
+    define("APPURL","https://swxpb1863.github.io/anime-main");
     define("IMGURL","http://localhost/anime-main/admin-panel/shows-admins/images");
     define("VIDURL","http://localhost/anime-main/admin-panel/shows-admins/videos");
     
